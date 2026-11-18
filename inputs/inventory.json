@@ -1,0 +1,73 @@
+{
+  "files": [
+    {
+      "path": "acoustic-context.json",
+      "bytes": 506,
+      "sha256": "fec392092a87af269c776f943683202c81d700714ae3b7c5848e91586c8c48bc"
+    },
+    {
+      "path": "actions.json",
+      "bytes": 512,
+      "sha256": "63de8cef57201b867c318776737dd43d018bf15c3962dd7a1cd92b93e39811c8"
+    },
+    {
+      "path": "calibrations.parquet",
+      "bytes": 2423,
+      "sha256": "0fc424db38beeaea8e1042161da093af2446ad7b5e6b8d8800f1dd6c99552c9f",
+      "rows": 3
+    },
+    {
+      "path": "measures.parquet",
+      "bytes": 4273,
+      "sha256": "98bf17afcbd15df310f3916ac93b7e5aea7c8ecdef20abf03da8914121b68705",
+      "rows": 3
+    },
+    {
+      "path": "observations.parquet",
+      "bytes": 596268,
+      "sha256": "2058f450ebf752d2bae2f41abf34f9e91c278d4cd24d571961f83d59c40d717e",
+      "rows": 649
+    },
+    {
+      "path": "planned_trials.parquet",
+      "bytes": 2261,
+      "sha256": "589dc294672f5054539d762ea019b20e8e4eea74128dc9e841e68006acf219d5",
+      "rows": 3
+    },
+    {
+      "path": "receptors.parquet",
+      "bytes": 2214,
+      "sha256": "2b9e9842a1ccf7ec4f881217976458b3dffa1d0f1cd505e1c1457e4abdd78f67",
+      "rows": 3
+    },
+    {
+      "path": "seed.json",
+      "bytes": 330385,
+      "sha256": "58d4f4f624dc0f0acec806411a9cb654a7b013932b26c6e2b3b016bf7fac436f"
+    },
+    {
+      "path": "source_logs.parquet",
+      "bytes": 326360,
+      "sha256": "4ca7c2995cf92ab1641202077f272a31251dbf876572d2c16f8bb3f1b7c0c5c3",
+      "rows": 432
+    },
+    {
+      "path": "traffic.parquet",
+      "bytes": 71101,
+      "sha256": "357b332210e62897ede6127824c62974a3218871f0475278cfaf6391256087c8",
+      "rows": 216
+    },
+    {
+      "path": "trial_receipts.parquet",
+      "bytes": 1831,
+      "sha256": "a48ecd1c323489f8d5e0d64e98dc6b87929080456ef4b72fa898b1a589b2feca",
+      "rows": 3
+    },
+    {
+      "path": "weather.parquet",
+      "bytes": 82906,
+      "sha256": "6d3ee28a7fcdfec5811621bf55bb16076a31bbd8df20f5b897316024877996a1",
+      "rows": 216
+    }
+  ]
+}

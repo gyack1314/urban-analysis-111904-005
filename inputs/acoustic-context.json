@@ -1,0 +1,27 @@
+{
+  "fit_days": [
+    "2025-01-01",
+    "2025-01-13"
+  ],
+  "heldout_days": [
+    "2025-01-13",
+    "2025-01-19"
+  ],
+  "heldout_receptor": "R3",
+  "budget_yuan": 15000,
+  "comparison": {
+    "same_work_units": 200,
+    "windows": [
+      {
+        "start_hour": 8,
+        "end_hour": 18
+      },
+      {
+        "start_hour": 18,
+        "end_hour": 20
+      }
+    ],
+    "energy_reference": "relative sound energy times seconds",
+    "peak_scope": "observed windows only"
+  }
+}
